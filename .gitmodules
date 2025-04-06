@@ -1,0 +1,3 @@
+[submodule "custom_node"]
+	path = custom_node
+	url = https://github.com/Comfy-Org/ComfyUI-Manager
